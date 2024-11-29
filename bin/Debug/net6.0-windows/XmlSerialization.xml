@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Employee>
+		<Name>Вернидуб Мамай</Name>
+		<Time>2022-08-04T08:00:00</Time>
+	</Employee>
+	<Employee>
+		<Name>Лука Корнеплiд</Name>
+		<Time>2022-08-04T06:59:59</Time>
+	</Employee>
+	<Employee>
+		<Name>Олекса Суворий</Name>
+		<Time>2022-08-04T08:05:34</Time>
+	</Employee>
+	<Employee>
+		<Name>Констанцiя Мигдаль</Name>
+		<Time>2022-08-04T11:23:11</Time>
+	</Employee>
+	<Employee>
+		<Name>Iларiона Гефест</Name>
+		<Time>2022-08-04T07:30:00</Time>
+	</Employee>
+	<Employee>
+		<Name>Джинтонік Бриков</Name>
+		<Time>2022-08-04T08:30:00</Time>
+	</Employee>
+</ArrayOfEmployee>

@@ -1,0 +1,35 @@
+C:\Users\Acer\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Acer\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Acer\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Acer\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Acer\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Acer\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+Y:\Old World Blues\С#\WinForms\bin\Debug\net6.0-windows\WinFormsApp1.exe
+Y:\Old World Blues\С#\WinForms\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+Y:\Old World Blues\С#\WinForms\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+Y:\Old World Blues\С#\WinForms\bin\Debug\net6.0-windows\WinFormsApp1.dll
+Y:\Old World Blues\С#\WinForms\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.dll
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+Y:\Old World Blues\С#\WinForms\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

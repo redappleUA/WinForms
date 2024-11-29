@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Name>employee1</Name>
+    <Time>2024-11-22T08:00:00</Time>
+  </Employee>
+  <Employee>
+    <Name>employee2</Name>
+    <Time>2024-11-22T07:59:59</Time>
+  </Employee>
+</ArrayOfEmployee>
